@@ -40,9 +40,10 @@ git clone https://github.com/your-repo/BSDS500-Segmentation-Dataset.git
 ## 📥 Download Dataset  
 The original dataset is available from the **Berkeley Vision Group**:  
 🔗 [Official BSDS500 Dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)  
+```
 
 Alternatively, you can clone this repository:
 
 ```bash
 git clone https://github.com/your-repo/BSDS500-Segmentation-Dataset.git
-
+```
