@@ -16,11 +16,11 @@ This dataset supports our research paper:
 ## 📂 Dataset Structure
 The **BSDS500 dataset** consists of **500 natural images**, each with multiple **manually annotated segmentations**. The dataset is divided as follows:
 
-BSDS500/
+`BSDS500/
 │── images/
 │   ├── train/ (200 images)
 │   ├── val/ (100 images)
 │   ├── test/ (200 images)
 │── groundTruth/  # Hand-labeled segmentations
 │── human/        # Multiple human annotations
-│── README.md
+│── README.md`
