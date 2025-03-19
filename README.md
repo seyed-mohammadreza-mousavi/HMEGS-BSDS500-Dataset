@@ -18,13 +18,18 @@ The **BSDS500 dataset** consists of **500 natural images**, each with multiple *
 
 ```
 BSDS500/
-│── images/
-│   ├── train/ (200 images)
-│   ├── val/ (100 images)
-│   ├── test/ (200 images)
-│── groundTruth/  # Hand-labeled segmentations
-│── human/        # Multiple human annotations
-│── README.md
+│── images/           # Contains raw images
+│   ├── train/       # 200 training images
+│   ├── val/         # 100 validation images
+│   ├── test/        # 200 test images
+│
+│── groundTruth/      # Hand-labeled segmentations (MAT files)
+│   ├── train/       # Corresponding ground truth for train images
+│   ├── val/         # Corresponding ground truth for val images
+│   ├── test/        # Corresponding ground truth for test images
+│
+│── human/            # Multiple human annotations per image
+│── README.md         # Dataset documentation
 ```
 
 ## 📥 Download Dataset
