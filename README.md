@@ -53,3 +53,8 @@ cv2.imshow('Image', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+## 📜 License
+This dataset follows the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.  
+📄 For more details, see the **[LICENSE](https://creativecommons.org/licenses/by/4.0/)** file.
+
