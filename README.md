@@ -36,13 +36,20 @@ Alternatively, you can clone this repository:
 ```bash
 git clone https://github.com/your-repo/BSDS500-Segmentation-Dataset.git
 ```
-#### **How It Will Be Displayed:**
-## 📥 Download Dataset  
-The original dataset is available from the **Berkeley Vision Group**:  
-🔗 [Official BSDS500 Dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)  
+## 🚀 Usage
+To use the dataset for segmentation experiments, you can load the images and ground-truth segmentations in **Python**:
 
-Alternatively, you can clone this repository:
+```python
+import scipy.io as sio
+import cv2
+import numpy as np
 
-```bash
-git clone https://github.com/your-repo/BSDS500-Segmentation-Dataset.git
+# Load an example ground-truth segmentation
+gt_data = sio.loadmat('BSDS500/groundTruth/181091.mat')
+image = cv2.imread('BSDS500/images/test/181091.jpg')
+
+# Display the original image
+cv2.imshow('Image', image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
