@@ -10,5 +10,5 @@ This dataset supports our research paper:
 
 **📌 Title:** *A Hybrid Marker Extraction Method by Gradient and Spectral Features for Marker-Controlled Watershed Segmentation*  
 **✍️ Authors:** S.B. Hossaini, S.M. Mousavi, A. Bavafatoosi  
-**📕 Submitted to:** *Pattern Analysis and Applications (Springer)*  
+**📕 Submitted to:** *### (Springer)*  
 **🔗 Related Code Repository:** [HMEGS Implementation]([https://github.com/your-friend/HMEGS-segmentation](https://github.com/sbehzadh9/HMEGS))
