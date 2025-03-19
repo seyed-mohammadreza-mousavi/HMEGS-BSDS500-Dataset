@@ -11,7 +11,7 @@ This dataset supports our research paper:
 **📌 Title:** *A Hybrid Marker Extraction Method by Gradient and Spectral Features for Marker-Controlled Watershed Segmentation*  
 **✍️ Authors:** S.B. Hossaini, S.M. Mousavi, A. Bavafatoosi  
 **📕 Submitted to:** *### (Springer)*  
-**🔗 Related Code Repository:** [HMEGS Implementation](https://github.com/sbehzadh9/HMEGS))
+**🔗 Related Code Repository:** [HMEGS Implementation](https://github.com/sbehzadh9/HMEGS)
 
 ## 📂 Dataset Structure
 The **BSDS500 dataset** consists of **500 natural images**, each with multiple **manually annotated segmentations**. The dataset is divided as follows:
